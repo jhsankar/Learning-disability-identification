@@ -13,6 +13,9 @@ The project was conducted in **R** using descriptive statistics, chi-square test
 - Do socio-economic and household factors such as health insurance, poverty, household language, and metro status help explain these disparities?
 - Do race and gender interact in ways that suggest compounded inequities in identification?
 
+## Data Source 
+- National Survey of Children’s Health (NSCH), U.S. Census Bureau and Maternal and Child Health Bureau
+
 ## Methods
 The analysis was completed in three stages:
 1. **Descriptive statistics** to summarize learning disability prevalence across demographic subgroups
